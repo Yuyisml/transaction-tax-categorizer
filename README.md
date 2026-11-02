@@ -20,9 +20,9 @@ Planned for V2.0+ (the "Schedule" quadrant):
 - Export a clean and concise output
 - Handle edge cases
 
-Handled with libraries/tools ("Delegate"): generating mock data through AI, and formatting tables through tabulate or Pandas.
+Handled with libraries/tools ("Delegate"): generating mock data through AI, formatting tables through tabulate or Pandas, and standardizing CSV header mapping across bank formats.
 
-Out of scope ("Delete"): relying on live API banking data, and creating an entire GUI.
+Out of scope ("Delete"): relying on live API banking data, creating an entire GUI, and inputting other tax files (e.g. W2, W9, 1095-A).
 
 ## Tech Stack
 
