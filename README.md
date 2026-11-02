@@ -27,10 +27,10 @@ Out of scope ("Delete"): relying on live API banking data, creating an entire GU
 ## Tech Stack
 
 - **Language:** Python
-- **Data handling:** Pandas (read CSV into a DataFrame, clean, group and sum)
-- **Matching rules:** keyword / regex matching
-- **Output formatting:** tabulate or Pandas
-- **Output files:** CSV / Excel
+- **Libraries:** Pandas, RE (regular expressions), OpenPyXL
+- **Version control:** Git / GitHub
+
+Possible additions in future versions: Rich, Matplotlib, SQLite, FastAPI, and the Plaid API.
 
 ## System Diagram
 
