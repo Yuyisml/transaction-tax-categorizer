@@ -34,11 +34,13 @@ Out of scope ("Delete"): relying on live API banking data, creating an entire GU
 
 ## System Diagram
 
-![System Diagram](docs/system-diagram.png)
+![System Diagram](docs/Flowchart%20System%20Diagram.drawio.png)
+
+The diagram was made in draw.io; the `.drawio.png` file contains the editable draw.io source and can be opened directly in draw.io.
 
 ## Eisenhower Matrix
 
-[docs/eisenhower-matrix.pdf](docs/eisenhower-matrix.pdf)
+[Eisenhower Matrix (PDF)](docs/Eisenhower%20Matrix%20Diagram-2.pdf)
 
 ## Repository Structure
 
